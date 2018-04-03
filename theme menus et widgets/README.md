@@ -9,7 +9,7 @@ Le thème est le visuel, l'apparence de votre site
 
 ![Thèmes](wordpressTheme1.jpg)
 
-![Thèmes2](wordpressTheme2.jpg)
+![Thèmes2](wordpressTheme2.png)
 
 Varie selon les thèmes : 
 
@@ -37,4 +37,5 @@ __La navigation__
 ## widgets 
 
 Les widgets sont des petits modules que vous pouvez insérer dans les barres latérales, le footer. Exemple : un calendrier, une barre de recherche
+
 ![Widgets](wordpressWidgets.png)
