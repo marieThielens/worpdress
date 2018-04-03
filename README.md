@@ -17,8 +17,8 @@ Empêcher d'écrire dans l'url (wp-admin) par exemple.
        order allow,deny 
        deny from all 
     </Files>
-    
-    
+
+
 2) __Plugins__
 
 - **SF Move Login** : Changez l’url de votre page de connexion.
@@ -41,5 +41,6 @@ Dans le fichier function.php (wp-content / themes / LeTheme / function.php) ajou
 Dans le fichier header.php enlever la ligne :
 `<meta name="generator" content="WordPress <?php bloginfo('version'); ?>" />`
 
-## Modifier le css
-![modifier css](css.png)
+## Modifier le css et les pages.php
+
+![modifier css](css.png=100x20 )
