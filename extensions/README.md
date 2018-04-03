@@ -1,11 +1,5 @@
 # Les extensions
 
-1 header | header 2 | 
-- |:-: | 
-line `1` | **1** | **_valeur_**
-Line 2 | 2 | *Value*
-
-
 |           Nom du plugin        |    Fonction du plugin   |
 -|:-: |
 BackWPup  |  Il permet de programmer des sauvegardes automatiques à intervalles réguliers. |
