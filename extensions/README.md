@@ -1,12 +1,16 @@
 # Les extensions
 
+1 header | header 2 | 
+- |:-: | 
+line `1` | **1** | **_valeur_**
+Line 2 | 2 | *Value*
 
 
-| Nom du plugin     |    Fonction du plugin   |
-| ------------------|: -------------: |
-|   BackWPup        |  Il permet de programmer des sauvegardes automatiques à intervalles réguliers.       |
-| Google Analytics for Wordpress       | Analytics est le service le plus utilisé pour mesurer l'audience d'un site web.        |
-| Contact Form 7     |  Un formulaire de contact        |
+|           Nom du plugin        |    Fonction du plugin   |
+-|:-: |
+BackWPup  |  Il permet de programmer des sauvegardes automatiques à intervalles réguliers. |
+| Google Analytics for Wordpress | Analytics est le service le plus utilisé pour mesurer l'audience d'un site web. |
+| Contact Form 7 |  Un formulaire de contact        |
 | WordPress SEO     |   Pour le référencement        |
 | WP Optimize      |     Ce plugin permet d'optimiser un peu le chargement des pages par rapport à l'utilisation que vous faites de votre site.       |
 | Akismet     |     Ce plugin permet d'éviter le spam dans les commentaires       |
