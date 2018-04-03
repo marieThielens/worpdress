@@ -40,3 +40,6 @@ Dans le fichier function.php (wp-content / themes / LeTheme / function.php) ajou
 
 Dans le fichier header.php enlever la ligne :
 `<meta name="generator" content="WordPress <?php bloginfo('version'); ?>" />`
+
+## Modifier le css
+![modifier css](css.png)
