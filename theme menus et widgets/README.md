@@ -34,6 +34,10 @@ __La navigation__
 - Lien personnalisés(à gauche): les liens vers un site externe
 - Cathégorie : par tag
 
+- faire des sous-menus et définir un menu comme le menu principal :
+
+![](sousMenu.png)
+
 ## widgets 
 
 Les widgets sont des petits modules que vous pouvez insérer dans les barres latérales, le footer. Exemple : un calendrier, une barre de recherche
