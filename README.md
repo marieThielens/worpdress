@@ -18,7 +18,6 @@ Empêcher d'écrire dans l'url (wp-admin) par exemple.
        deny from all 
     </Files>
 
-
 2) __Plugins__
 
 - **SF Move Login** : Changez l’url de votre page de connexion.
@@ -43,4 +42,4 @@ Dans le fichier header.php enlever la ligne :
 
 ## Modifier le css et les pages.php
 
-![modifier css](css.png=100x20 )
+![modifier css](css.png)
