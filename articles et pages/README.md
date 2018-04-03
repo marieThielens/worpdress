@@ -6,11 +6,12 @@
 
 - Choisir sur quelle page va l'article :
 
-![articles](articleAutoriserEcriture.png)
+![](articleChoixPage.png)
 
 - Autoriser l'utilisateur à faire un commentaire
 
-![](articleChoixPage.png)
+
+![articles](articleAutoriserEcriture.png)
 
 - __Les pages__ Les différentes page de votre site.
 
