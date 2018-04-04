@@ -27,7 +27,7 @@ N'oubliez pas de cliquer sur le bouton enregistrer et publier pour sauvegarder.
 
 __La navigation__
 
-![Menus](wordpressNav.jpg)
+![](wordpressNav.jpg)
 
 - Donnez un nom à votre menu
 - Réglages menu : l'emplacement de la nav est définie par le thème. Ici menu principal c'est dans la partie gauche et reseaux sociaux dans le footer
