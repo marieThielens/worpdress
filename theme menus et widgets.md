@@ -7,7 +7,7 @@ Le thème est le visuel, l'apparence de votre site
 
 1) Personnaliser votre thème :
 
-![Thèmes](thememenuswidgets/wordpressTheme1.jpg)
+<img src="images/wordpressTheme1.jpg" width="50%" height="50%" />
 
 ![Thèmes2](wordpressTheme2.png)
 
@@ -27,7 +27,7 @@ N'oubliez pas de cliquer sur le bouton enregistrer et publier pour sauvegarder.
 
 __La navigation__
 
-![](wordpressNav.jpg)
+<img src="images/wordpressNav.jpg" width="50%" height="50%" />
 
 - Donnez un nom à votre menu
 - Réglages menu : l'emplacement de la nav est définie par le thème. Ici menu principal c'est dans la partie gauche et reseaux sociaux dans le footer
@@ -36,10 +36,11 @@ __La navigation__
 
 - faire des sous-menus et définir un menu comme le menu principal :
 
-![](sousMenu.png)
+<img src="images/sousMenu.png" width="50%" height="50%" />
+
 
 ## widgets 
 
 Les widgets sont des petits modules que vous pouvez insérer dans les barres latérales, le footer. Exemple : un calendrier, une barre de recherche
 
-![Widgets](wordpressWidgets.png)
+<img src="images/wordpressWidgets.png" width="50%" height="50%" />
