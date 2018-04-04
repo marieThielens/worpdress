@@ -4,15 +4,15 @@
 
 Les articles servent à créer le contenu du site qui va évoluer au cours du temps. Ils sont datés, rattachés à un auteur et permettent aux utilisateurs de laisser des commentaires. Vous pouvez leur ajouter des catégories et les identifier avec des mots-clés.
 
-<img src="images/wordpressArticles.png" width="50%" height="50%" />
+<img src="images/wordpressArticles.png" width="80%" height="80%" />
 
 ### Choisir sur quelle page va l'article
 
-<img src="images/articleChoixPage.png" width="50%" height="50%" />
+<img src="images/articleChoixPage.png" width="80%" height="80%" />
 
 ### Autoriser l'utilisateur à faire un commentaire
 
-<img src="images/articleAutoriserEcriture.png" width="50%" height="50%" />
+<img src="images/articleAutoriserEcriture.png" width="80%" height="80%" />
 
 ## Catégorie et étiquettes
 
@@ -24,13 +24,13 @@ Une catégorie sert à recenser les articles qui s’y rapportent. Ex: le sujet 
 
 #### Gérer les catégories via le tableau de bord
 
-<img src="images/categories.png" width="50%" height="50%" />
+<img src="images/categories.png" width="80%" height="80%" />
 
 - Parent : pour intégrer la catégorie B dans une catégorie existante A (B sera alors automatiquement classée comme une sous-catégorie de A)
 
 ### Gérer les catégories via l’éditeur d’article
 
-<img src="images/categories2.png" width="50%" height="50%" />
+<img src="images/categories2.png" width="80%" height="80%" />
 
 - Pour associer l’article à une catégorie existante, cochez la case correspondante :
 - Pour associer l’article à une catégorie qui n’est pas encore créée, cliquez sur ‘Ajouter une catégorie’.
@@ -45,8 +45,8 @@ Ex : j'ai un article trump est un fou. Sa catégorie est : politique. Son étiqu
 
 #### Gérer les étiquettes via le tableau de bord
 
-<img src="images/etiquettes.png" width="50%" height="50%" />
+<img src="images/etiquettes.png" width="80%" height="80%" />
 
 #### Gérer les étiquettes directement dans l'article
 
-<img src="images/etiquettes2.png" width="50%" height="50%" />
+<img src="images/etiquettes2.png" width="80%" height="80%" />
