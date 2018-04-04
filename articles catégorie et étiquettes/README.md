@@ -30,7 +30,7 @@ Une catégorie sert à recenser les articles qui s’y rapportent. Ex: le sujet 
 
 ### Gérer les catégories via l’éditeur d’article
 
-![catégories](catégories2.png);
+![catégories](categories2.png);
 
 - Pour associer l’article à une catégorie existante, cochez la case correspondante :
 - Pour associer l’article à une catégorie qui n’est pas encore créée, cliquez sur ‘Ajouter une catégorie’.

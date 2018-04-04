@@ -42,4 +42,5 @@ Dans le fichier header.php enlever la ligne :
 
 ## Modifier le css et les pages.php
 
-![modifier css](css.png)
+![modifier css](css.png | width=100)
+
