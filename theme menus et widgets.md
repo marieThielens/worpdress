@@ -27,7 +27,7 @@ N'oubliez pas de cliquer sur le bouton enregistrer et publier pour sauvegarder.
 
 __La navigation__
 
-<img src="images/wordpressNav.jpg" width="50%" height="50%" />
+<img src="images/wordpressNav.jpg" width="70%" height="70%" />
 
 - Donnez un nom à votre menu
 - Réglages menu : l'emplacement de la nav est définie par le thème. Ici menu principal c'est dans la partie gauche et reseaux sociaux dans le footer
@@ -38,9 +38,8 @@ __La navigation__
 
 <img src="images/sousMenu.png" width="50%" height="50%" />
 
-
 ## widgets 
 
 Les widgets sont des petits modules que vous pouvez insérer dans les barres latérales, le footer. Exemple : un calendrier, une barre de recherche
 
-<img src="images/wordpressWidgets.png" width="50%" height="50%" />
+<img src="images/wordpressWidgets.png" width="70%" height="70%" />
