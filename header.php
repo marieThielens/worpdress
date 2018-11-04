@@ -1,4 +1,11 @@
 <!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" <?php language_attributes(); ?>>
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" <?php language_attributes(); ?>>
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
 <html <?php language_attributes(); ?>>
 <head>
     <meta charset= "<?php bloginfo('charset'); ?>">
@@ -25,7 +32,7 @@
 </div>
 
 
-<div class="row">
+<div class="main">
 
 </div>
     
